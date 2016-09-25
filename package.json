@@ -2,8 +2,8 @@
   "name": "jsreport",
   "version": "1.0.9",
   "author": {
-    "name": "Jan Blaha",
-    "email": "jan.blaha@hotmail.com"
+    "name": "Iman Namvar",
+    "email": "Iman.namvar@gmail.com"
   },
   "contributors": [],
   "description": "javascript based business reporting",
@@ -12,10 +12,10 @@
     "business",
     "javascript"
   ],
-  "homepage": "https://github.com/jsreport/jsreport",
+  "homepage": "https://github.com/inamvar/jsreport",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jsreport/jsreport.git"
+    "url": "git@github.com:inamvar/jsreport.git"
   },
   "standard": {
     "ignore": [
@@ -41,11 +41,9 @@
     "jsreport-fop-pdf": "0.2.0",
     "jsreport-fs-store": "1.0.5",
     "jsreport-handlebars": "1.0.1",
-    "jsreport-html-to-xlsx": "1.0.1",
     "jsreport-images": "1.0.3",
     "jsreport-jsrender": "1.0.1",
-    "jsreport-licensing": "1.0.3",
-    "jsreport-phantom-pdf": "1.0.3",
+    "jsreport-licensing": "1.0.3",  
     "jsreport-public-templates": "1.0.1",
     "jsreport-reports": "1.0.2",
     "jsreport-resources": "1.0.1",
@@ -54,8 +52,7 @@
     "jsreport-scripts": "1.0.3",
     "jsreport-studio": "1.0.7",
     "jsreport-templates": "1.0.1",
-    "jsreport-text": "1.0.1",
-    "jsreport-xlsx": "1.0.11",
+    "jsreport-text": "1.0.1", 
     "mkdirp": "0.5.1",
     "node.extend": "1.1.5",
     "underscore": "1.8.3",
